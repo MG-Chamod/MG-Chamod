@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**MG-Chamod/MG-Chamod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm M G Chamod! 👋
 
-Here are some ideas to get you started:
+### Aspiring Network Engineer | IT Infrastructure | Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+I'm a Business Technology graduate from the University of Kelaniya with practical experience in IT Support, Network Troubleshooting, and ERP Administration.
+
+Currently pursuing a Higher Diploma in Network Systems Engineering at Cardiff Metropolitan University and preparing for the Cisco CCNA 200-301 certification.
+
+## 🎯 Career Interests
+- Computer Networking
+- Network Engineering
+- IT Infrastructure
+- Cybersecurity
+- System Administration
+
+## 🛠️ Technical Skills
+- Networking Fundamentals
+- TCP/IP & OSI Model
+- IP Addressing & Subnetting
+- VLAN Configuration
+- Inter-VLAN Routing
+- Network Troubleshooting
+- IT Support
+
+## 📚 Currently Learning
+- Cisco CCNA 200-301
+- Routing & Switching
+- Network Security
+- Windows Server Administration
+- Linux Fundamentals
+
+## 💻 Projects
+- Cisco Packet Tracer Network Projects
+- VLAN & Inter-VLAN Routing
+- IP Addressing & Subnetting Labs
+- Network Troubleshooting
+
+## 🌐 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mg-chamod/)
 - ⚡ Fun fact: ...
 -->
