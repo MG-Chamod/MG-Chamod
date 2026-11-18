@@ -39,5 +39,3 @@ Currently pursuing a Higher Diploma in Network Systems Engineering at Cardiff Me
 ## 🌐 Connect With Me
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mg-chamod/)
-- ⚡ Fun fact: ...
--->
